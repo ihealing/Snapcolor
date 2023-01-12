@@ -9,16 +9,46 @@
 /* Begin PBXBuildFile section */
 		434C6117296FFC6900D73E62 /* SnapColorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C6116296FFC6900D73E62 /* SnapColorApp.swift */; };
 		434C6119296FFC6900D73E62 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C6118296FFC6900D73E62 /* ContentView.swift */; };
-		434C611B296FFC6A00D73E62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 434C611A296FFC6A00D73E62 /* Assets.xcassets */; };
 		434C611E296FFC6A00D73E62 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 434C611D296FFC6A00D73E62 /* Preview Assets.xcassets */; };
+		434C6125296FFCA500D73E62 /* Splash.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C6124296FFCA500D73E62 /* Splash.swift */; };
+		434C6135296FFCB300D73E62 /* Colorsline1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C6126296FFCB200D73E62 /* Colorsline1.swift */; };
+		434C6136296FFCB300D73E62 /* Colorsline2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C6127296FFCB200D73E62 /* Colorsline2.swift */; };
+		434C6137296FFCB300D73E62 /* colorsheet3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C6128296FFCB200D73E62 /* colorsheet3.swift */; };
+		434C6138296FFCB300D73E62 /* Lovesheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C6129296FFCB200D73E62 /* Lovesheet.swift */; };
+		434C6139296FFCB300D73E62 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 434C612A296FFCB200D73E62 /* Localizable.strings */; };
+		434C613A296FFCB300D73E62 /* colorpalettebasedonword.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C612C296FFCB200D73E62 /* colorpalettebasedonword.swift */; };
+		434C613B296FFCB300D73E62 /* colorsheet2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C612D296FFCB200D73E62 /* colorsheet2.swift */; };
+		434C613C296FFCB300D73E62 /* colorsheet5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C612E296FFCB200D73E62 /* colorsheet5.swift */; };
+		434C613D296FFCB300D73E62 /* CustomColorPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C612F296FFCB300D73E62 /* CustomColorPicker.swift */; };
+		434C613E296FFCB300D73E62 /* colorsheet6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C6130296FFCB300D73E62 /* colorsheet6.swift */; };
+		434C613F296FFCB300D73E62 /* colorsheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C6131296FFCB300D73E62 /* colorsheet.swift */; };
+		434C6140296FFCB300D73E62 /* colorsheet7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C6132296FFCB300D73E62 /* colorsheet7.swift */; };
+		434C6141296FFCB300D73E62 /* colorsheet4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C6133296FFCB300D73E62 /* colorsheet4.swift */; };
+		434C6142296FFCB300D73E62 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 434C6134296FFCB300D73E62 /* SearchBar.swift */; };
+		434C6144296FFCBC00D73E62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 434C6143296FFCBC00D73E62 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		434C6113296FFC6900D73E62 /* SnapColor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SnapColor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		434C6116296FFC6900D73E62 /* SnapColorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapColorApp.swift; sourceTree = "<group>"; };
 		434C6118296FFC6900D73E62 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		434C611A296FFC6A00D73E62 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		434C611D296FFC6A00D73E62 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		434C6124296FFCA500D73E62 /* Splash.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Splash.swift; path = "../../أعمالي/Snapcolor/Snapcolor/Splash.swift"; sourceTree = "<group>"; };
+		434C6126296FFCB200D73E62 /* Colorsline1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Colorsline1.swift; path = "../../أعمالي/Snapcolor/Snapcolor/Colorsline1.swift"; sourceTree = "<group>"; };
+		434C6127296FFCB200D73E62 /* Colorsline2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Colorsline2.swift; path = "../../أعمالي/Snapcolor/Snapcolor/Colorsline2.swift"; sourceTree = "<group>"; };
+		434C6128296FFCB200D73E62 /* colorsheet3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = colorsheet3.swift; path = "../../أعمالي/Snapcolor/Snapcolor/colorsheet3.swift"; sourceTree = "<group>"; };
+		434C6129296FFCB200D73E62 /* Lovesheet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Lovesheet.swift; path = "../../أعمالي/Snapcolor/Snapcolor/Lovesheet.swift"; sourceTree = "<group>"; };
+		434C612B296FFCB200D73E62 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = "../../أعمالي/Snapcolor/Snapcolor/en.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		434C612C296FFCB200D73E62 /* colorpalettebasedonword.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = colorpalettebasedonword.swift; path = "../../أعمالي/Snapcolor/Snapcolor/colorpalettebasedonword.swift"; sourceTree = "<group>"; };
+		434C612D296FFCB200D73E62 /* colorsheet2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = colorsheet2.swift; path = "../../أعمالي/Snapcolor/Snapcolor/colorsheet2.swift"; sourceTree = "<group>"; };
+		434C612E296FFCB200D73E62 /* colorsheet5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = colorsheet5.swift; path = "../../أعمالي/Snapcolor/Snapcolor/colorsheet5.swift"; sourceTree = "<group>"; };
+		434C612F296FFCB300D73E62 /* CustomColorPicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CustomColorPicker.swift; path = "../../أعمالي/Snapcolor/Snapcolor/CustomColorPicker.swift"; sourceTree = "<group>"; };
+		434C6130296FFCB300D73E62 /* colorsheet6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = colorsheet6.swift; path = "../../أعمالي/Snapcolor/Snapcolor/colorsheet6.swift"; sourceTree = "<group>"; };
+		434C6131296FFCB300D73E62 /* colorsheet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = colorsheet.swift; path = "../../أعمالي/Snapcolor/Snapcolor/colorsheet.swift"; sourceTree = "<group>"; };
+		434C6132296FFCB300D73E62 /* colorsheet7.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = colorsheet7.swift; path = "../../أعمالي/Snapcolor/Snapcolor/colorsheet7.swift"; sourceTree = "<group>"; };
+		434C6133296FFCB300D73E62 /* colorsheet4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = colorsheet4.swift; path = "../../أعمالي/Snapcolor/Snapcolor/colorsheet4.swift"; sourceTree = "<group>"; };
+		434C6134296FFCB300D73E62 /* SearchBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SearchBar.swift; path = "../../أعمالي/Snapcolor/Snapcolor/SearchBar.swift"; sourceTree = "<group>"; };
+		434C6143296FFCBC00D73E62 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../أعمالي/Snapcolor/Snapcolor/Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +81,24 @@
 		434C6115296FFC6900D73E62 /* SnapColor */ = {
 			isa = PBXGroup;
 			children = (
+				434C6124296FFCA500D73E62 /* Splash.swift */,
 				434C6116296FFC6900D73E62 /* SnapColorApp.swift */,
 				434C6118296FFC6900D73E62 /* ContentView.swift */,
-				434C611A296FFC6A00D73E62 /* Assets.xcassets */,
+				434C612C296FFCB200D73E62 /* colorpalettebasedonword.swift */,
+				434C6131296FFCB300D73E62 /* colorsheet.swift */,
+				434C612D296FFCB200D73E62 /* colorsheet2.swift */,
+				434C6128296FFCB200D73E62 /* colorsheet3.swift */,
+				434C6133296FFCB300D73E62 /* colorsheet4.swift */,
+				434C612E296FFCB200D73E62 /* colorsheet5.swift */,
+				434C6130296FFCB300D73E62 /* colorsheet6.swift */,
+				434C6132296FFCB300D73E62 /* colorsheet7.swift */,
+				434C6126296FFCB200D73E62 /* Colorsline1.swift */,
+				434C6127296FFCB200D73E62 /* Colorsline2.swift */,
+				434C612F296FFCB300D73E62 /* CustomColorPicker.swift */,
+				434C612A296FFCB200D73E62 /* Localizable.strings */,
+				434C6129296FFCB200D73E62 /* Lovesheet.swift */,
+				434C6134296FFCB300D73E62 /* SearchBar.swift */,
+				434C6143296FFCBC00D73E62 /* Assets.xcassets */,
 				434C611C296FFC6A00D73E62 /* Preview Content */,
 			);
 			path = SnapColor;
@@ -126,7 +171,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				434C611E296FFC6A00D73E62 /* Preview Assets.xcassets in Resources */,
-				434C611B296FFC6A00D73E62 /* Assets.xcassets in Resources */,
+				434C6139296FFCB300D73E62 /* Localizable.strings in Resources */,
+				434C6144296FFCBC00D73E62 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,12 +183,37 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				434C6138296FFCB300D73E62 /* Lovesheet.swift in Sources */,
+				434C613F296FFCB300D73E62 /* colorsheet.swift in Sources */,
 				434C6119296FFC6900D73E62 /* ContentView.swift in Sources */,
+				434C613E296FFCB300D73E62 /* colorsheet6.swift in Sources */,
+				434C6136296FFCB300D73E62 /* Colorsline2.swift in Sources */,
+				434C6142296FFCB300D73E62 /* SearchBar.swift in Sources */,
+				434C6141296FFCB300D73E62 /* colorsheet4.swift in Sources */,
+				434C613B296FFCB300D73E62 /* colorsheet2.swift in Sources */,
+				434C6125296FFCA500D73E62 /* Splash.swift in Sources */,
+				434C613D296FFCB300D73E62 /* CustomColorPicker.swift in Sources */,
+				434C613C296FFCB300D73E62 /* colorsheet5.swift in Sources */,
+				434C6137296FFCB300D73E62 /* colorsheet3.swift in Sources */,
 				434C6117296FFC6900D73E62 /* SnapColorApp.swift in Sources */,
+				434C613A296FFCB300D73E62 /* colorpalettebasedonword.swift in Sources */,
+				434C6135296FFCB300D73E62 /* Colorsline1.swift in Sources */,
+				434C6140296FFCB300D73E62 /* colorsheet7.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		434C612A296FFCB200D73E62 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				434C612B296FFCB200D73E62 /* en */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		434C611F296FFC6A00D73E62 /* Debug */ = {
